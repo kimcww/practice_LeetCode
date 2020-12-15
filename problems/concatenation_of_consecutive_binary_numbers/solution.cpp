@@ -20,8 +20,6 @@ public:
     }
     
     // int 사용하니 runtime 오류
-    // long long int 사용하니 값오류 ( 너무 큰 값 ) int64를 사용해서
-    // int32 로 통일하는 방법 %1000000007 feat.google
     
     int concatenatedBinary(int n) 
     {
